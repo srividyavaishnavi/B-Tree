@@ -1,4 +1,4 @@
-# B-Tree
+# B+Tree
 B+Tree implementation - Insert,Search,Search Range,Delete
 B+ tree is a type of tree data structure. It represents sorted data in a way that allows for efficient
 insertion and removal of elements. It is a dynamic, multilevel index with maximum and minimum
